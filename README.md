@@ -37,3 +37,11 @@
 <img src="https://imgurl.ir/uploads/n5849_Screenshot_20240213-044719.png" width="240"/>
 <img src="https://imgurl.ir/uploads/v365001_Screenshot_20240213-044907.png" width="240"/>
 </div>
+
+## 📱 Technologies / Tools used for building this app includes:
+| Android Studio |  Java | XML | Android  | PHP My Admin | Database  | REST API | PHP |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+## 😀 If you liked the app, Please give it a ⭐ and fork the repository. 🤚🏻
