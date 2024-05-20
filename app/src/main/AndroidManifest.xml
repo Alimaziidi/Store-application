@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:usesCleartextTraffic="true"
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme"
+        tools:targetApi="31">
+        <activity android:name=".activity.VerifyPhoneActivity">
+
+        </activity>
+        <activity android:name=".activity.OrderProductActivity" />
+        <activity android:name=".activity.PayOffActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+
+                <data android:scheme="app" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".activity.CartActivity" />
+        <activity android:name=".activity.FavoriteActivity" />
+        <activity android:name=".activity.ShowProductFilterActivity" />
+        <activity android:name=".activity.FilterActivity" />
+        <activity android:name=".activity.BrandProductActivity" />
+        <activity android:name=".activity.AllProductActivity" />
+        <activity android:name=".activity.SendCommentActivity" />
+        <activity android:name=".activity.CommentActivity" />
+        <activity android:name=".activity.QuestionActivity" />
+        <activity android:name=".activity.IntroActivity" />
+        <activity android:name=".activity.RegisterActivity"></activity>
+
+        <activity android:name=".activity.LoginActivity"></activity>
+        <activity android:name=".activity.CompareActivity" />
+        <activity android:name=".activity.CompareProductActivity" />
+        <activity android:name=".activity.ChartActivity" />
+        <activity android:name=".activity.PropertiesProductActivity" />
+        <activity android:name=".activity.ReviewProductActivity" />
+        <activity android:name=".activity.ShowDetailProductActivity" />
+        <activity android:name=".activity.ShowCategoryDetailProductActivity" />
+        <activity android:name=".activity.DetailCategoryActivity" />
+        <activity android:name=".activity.HomeActivity"
+
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+    </application>
+
+</manifest>
