@@ -18,9 +18,11 @@
 
 ## Screenshots
 <div style="display:flex">
-<img src="fastlane/metadata/android/en-US/images/phoneScreenshots/01.png" width="240"/>
-<img src="fastlane/metadata/android/en-US/images/phoneScreenshots/02.png" width="240"/>
-<img src="fastlane/metadata/android/en-US/images/phoneScreenshots/03.png" width="240"/>
-<img src="fastlane/metadata/android/en-US/images/phoneScreenshots/04.png" width="240"/>
-<img src="fastlane/metadata/android/en-US/images/phoneScreenshots/05.png" width="240"/>
+<img src="https://imgurl.ir/uploads/w416126_Screenshot_2023-07-13-18-40-48.png" width="240"/>
+<img src="https://imgurl.ir/uploads/w8379_Screenshot_20240213-044403.png" width="240"/>
+<img src="https://imgurl.ir/uploads/q554364_Screenshot_20240213-044416.png" width="240"/>
+<img src="https://imgurl.ir/uploads/t604685_Screenshot_20240213-044551.png" width="240"/>
+<img src="https://imgurl.ir/uploads/u617103_Screenshot_20240213-044643.png" width="240"/>
+<img src="https://imgurl.ir/uploads/n5849_Screenshot_20240213-044719.png" width="240"/>
+<img src="https://imgurl.ir/uploads/v365001_Screenshot_20240213-044907.png" width="240"/>
 </div>
