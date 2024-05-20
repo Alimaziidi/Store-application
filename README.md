@@ -7,14 +7,25 @@
 <h2 align="center"><b></b></h2>
 
 ### Features : 
-* Define and delete tasks
-* Add images in tasks  
-* edit Check tasks
+* Show Amazing product 
+* Check the price chart 
+* Show and comments product
+* Admin panel to check products
+
 
 ### Dependencies :
 * Recyclerview 
 * Material 
 * Gson
+* Pinview Library
+* Viewpager
+* Volley
+* Retrofit2
+* Picasso
+
+
+### Android architecture :
+* MVC
 
 ## Screenshots
 <div style="display:flex">
